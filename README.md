@@ -1,5 +1,15 @@
 # python_exp_11
 
+
+## Instructions :
+
+1. Give Ritojnan a treat at Chai Bugs . Cheese Pizza French Fries and Cold Coffee are the only acceptable methods of payment
+2. Complete Step 1 else this project won't run
+3. Use commands given below to run stuff with intuition and ChatGPT if you have doubts
+4. Refer this video[https://www.youtube.com/watch?v=nGIg40xs9e4&ab_channel=TechWithTim]
+
+## Commands
+
 ```bash
  django-admin startproject myproject
  cd myproject                       
@@ -26,11 +36,3 @@
 6. `python manage.py migrate`: This command applies any pending migrations to the database. Migrations are Django's way of propagating changes you make to your models (adding a field, deleting a model, etc.) into your database schema.
 
 7. `python manage.py createsuperuser`: This command prompts you to create a superuser account, which has administrative privileges in the Django admin interface. You'll be asked to provide a username, email address, and password for the superuser.
-
-
-## Instructions :
-
-1. Give Ritojnan a treat at Chai Buys . Cheese Pizza French Fries and Cold Coffee are the only acceptable methods of payment
-2. Complete Step 1 else this project won't run
-3. Use commands given above to run stuff with intuition and ChatGPT if you have doubts
-4. Refer this video[https://www.youtube.com/watch?v=nGIg40xs9e4&ab_channel=TechWithTim]
